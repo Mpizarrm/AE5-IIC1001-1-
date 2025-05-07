@@ -11,6 +11,7 @@ El contenido de esta acividad se centra alrededor del algoritmo de generación d
 | Martín Pizarro | martin.pizarrom@estudiante.uc.cl | Mpizarrm
 
 > Lista de contribuciónes al projecto
+
 | NOMBRE | APORTE | 
 | ------ | ------ |
 | Martín Pizarro | Todo |
